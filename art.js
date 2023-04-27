@@ -67,4 +67,8 @@ const ART = [
    "filename": "x-wing.txt",
    "credit_text": "Shanaka Dias",
    "credit_url": "https://www.asciiart.eu/movies/star-wars"},
+  {"title": "Mortal Kombat", 
+    "filename": "Mortal_Kombat.txt", 
+    "credit_text": "Blazej Kozlowski", 
+    "credit_url": "https://www.asciiart.eu/video-games/mortal-kombat"},
 ];
